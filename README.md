@@ -12,6 +12,8 @@ This repo contains my work for the weekly workshops for 3813ICT
 
 Run the command "node {file name}"
 
+## Course Content
+
 | Week | Course Content |
 | --- | --- |
 | 1 | Introduction to JavaScript and Nodejs |
